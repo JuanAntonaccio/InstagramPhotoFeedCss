@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+.navbar{
+    background-color: white;
+    
+    
+}
+h1{
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top:0px;
+}
+.container{
+    background-color: rgb(221, 209, 209);
+}
+.card{
+    background-color: white;
+    width: 35%;
+    margin:auto;
+}
+.card-title{
+    display: flex;
+    justify-content: space-between;
+}
+.card-text{
+    text-align: center;
+}
+img{
+    width: 100%;
+}
